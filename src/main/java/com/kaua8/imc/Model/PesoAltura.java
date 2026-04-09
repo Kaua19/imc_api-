@@ -6,7 +6,7 @@ import java.util.Objects;
 
 public class PesoAltura {
 
-    @Schema(description = "Peso em quilogramas", example = "75.0")
+    @Schema(description = "Peso em quilograma", example = "75.0")
     private double peso;
 
     @Schema(description = "Altura em metros", example = "1.80")

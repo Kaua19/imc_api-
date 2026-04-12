@@ -72,9 +72,6 @@ Recebe peso e altura, calcula o IMC e retorna a classificação.
 **Response (201 Created):**
 ```json
 {
-  "peso": 75.0,
-  "altura": 1.80,
-  "imc": 23.15,
   "classificacao": "Peso normal"
 }
 ```
